@@ -16,5 +16,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 (http://cyberlaw.stanford.edu/events/free-speech-practice-usability-evaluation-tor-browser-bundle)[http://cyberlaw.stanford.edu/events/free-speech-practice-usability-evaluation-tor-browser-bundle]
 
 ```
-advantages of using such a service include; being able to keep personal things online private and being able to do them without fear of being traced or people finding out, 
+advantages of using such a service are; being able to keep personal things online private and being able to do them without fear of being traced or people finding out. disadvantages of using such a service are; people can do things with complete anonymity. meaning they can deal in many illegal items and acts without the fear of being caught, this means things like; dealing in drugs, weopans, people and indecent photos of minors. there are many sites on the dark side ofthe web that you cannot find on google because they are too bad to be put into google's database, for example 'the silk road' which is an online auction site much like ebay, however you can buy and sell absolutely anything.
 ```
